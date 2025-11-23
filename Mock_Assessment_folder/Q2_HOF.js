@@ -45,3 +45,6 @@ vehicleInfo("Truck", displayTruck);
 vehicleInfo("Bike", displayBike);
 
 
+
+
+
