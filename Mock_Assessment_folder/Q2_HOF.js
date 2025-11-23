@@ -8,7 +8,6 @@ let filtered_array=nums.filter((n)=>{
        return n;
     }
 });
-
 console.log(filtered_array);
 
 let sum_of_all=nums.reduce((acc,el)=>{

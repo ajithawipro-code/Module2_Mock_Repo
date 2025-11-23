@@ -36,7 +36,6 @@ let user = {
 };
 
 const{name:Name,address:{city:City,pin:Pin,geo:{lat:Lat,lng:Long}}}=user;
-
 console.log(City);
 console.log(Lat);
 console.log(Long);
